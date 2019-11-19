@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "874954273957",
+    "firebase_url": "https://movilesunal2019.firebaseio.com",
+    "project_id": "movilesunal2019",
+    "storage_bucket": "movilesunal2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874954273957:android:fc14812f9d30e779ec094c",
+        "android_client_info": {
+          "package_name": "co.edu.unal.tictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874954273957-tq4fackahdnrokp91groht70k6ig0d16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmK7HQrOrWSQzUJO9W6qvPTfuF7kuGaoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874954273957-tq4fackahdnrokp91groht70k6ig0d16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
